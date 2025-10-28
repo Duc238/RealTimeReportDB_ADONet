@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeReportDB_ADONet", "RealTimeReportDB_ADONet\RealTimeReportDB_ADONet.csproj", "{94F80A40-598E-4698-9D3B-16E9D68C7042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F80A40-598E-4698-9D3B-16E9D68C7042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F80A40-598E-4698-9D3B-16E9D68C7042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F80A40-598E-4698-9D3B-16E9D68C7042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F80A40-598E-4698-9D3B-16E9D68C7042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46229C3-DF25-49C2-B968-6E5EE8A4AD64}
+	EndGlobalSection
+EndGlobal
